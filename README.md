@@ -7,3 +7,4 @@ This all there is to making a simple sliding menu in HTML5. You can check out a 
 
 More information about this demo can be found [here]
 (http://tech.xtremelabs.com/html5-facebook-style-sliding-menu-using-twitter-bootstrap-collapse/).
+style sliding menu
